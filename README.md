@@ -1,14 +1,13 @@
-# Bootcamp-I
-Nesta área estamos desenvolvendo o portfólio pessoal e profissional de Bootcamp-I na etapa intermediária.
-Colocarei aqui as atividades realizadas nesta disciplina. 
+# Bootcamp I
+
+Nesta área, estou desenvolvendo o meu portfólio pessoal e profissional da disciplina de Bootcamp I (etapa intermediária). Aqui colocarei todas as atividades realizadas ao longo do curso.
 
 # Sobre
-Neste arquivo está a Nossa entrega inicial, que foi feita inicialmente no google apresentacao e no google docs.
+
+Neste repositório está a nossa entrega inicial, desenvolvida originalmente através do Google Apresentações e do Google Docs.
 
 # Conteúdo
+
 | Projeto | Arquivo |
 | :--- | :--- |
-| Entrega Inicial | [joao pedro (3).pdf](https://github.com/user-attachments/files/33595645/joao.pedro.3.pdf)|
-
-
-
+| Entrega Inicial | [joao pedro (3).pdf](https://github.com/user-attachments/files/33595645/joao.pedro.3.pdf) |
