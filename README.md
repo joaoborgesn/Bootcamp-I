@@ -10,5 +10,5 @@ Neste arquivo está a Nossa entrega inicial, que foi feita inicialmente no googl
 | :--- | :--- |
 | Entrega Inicial | [joao pedro (3).pdf](https://github.com/user-attachments/files/33595645/joao.pedro.3.pdf)|
 
-# Conte
+
 
